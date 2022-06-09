@@ -2,6 +2,7 @@
 import 'package:frontend/pages/task_home.dart';
 
 void main() {
+  WidgetsFlutterBinding.ensureInitialized();
   runApp(const MyApp());
 }
 

@@ -1,5 +1,4 @@
 enum TaskStatus {
   done,
-  ongoing,
-  undone
+  ongoing
 }
